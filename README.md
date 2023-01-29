@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zzz_adrr/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-nascimento-b58150215/)
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonNasciment0&show_icons=true&theme=radical)
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonNasciment0&show_icons=true&theme=radical)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonNasciment0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias Que Utilizo:
